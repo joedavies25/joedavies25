@@ -1,6 +1,11 @@
 <img src='banner.png'>
 
-I'm a full stack developer with a driven desire and curiosity to create slick UI and efficient data flow. I'm currently working on projects in ReactJS, React Native, Socket.io, Express and Sequelize.
+I'm a full stack developer with a driven desire and curiosity to create slick UI and efficient data flow. 
+
+## What I'm doing now
+I'm currently working with a team of developers to bring regular updates to our recently deployed game... TyperSpace! It's a racing game that aims to improve your typing speed while competing against your friends.
+
+I'm also working on my own project called Flow State to increase testing coverage and to implement more features which will allow for a better data analysis and an easier reading experience.
 
 ## Interests
 - music 🎹
